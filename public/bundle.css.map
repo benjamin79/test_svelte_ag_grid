@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "bundle.css",
+  "sources": [
+    "../App.svelte"
+  ],
+  "sourcesContent": [
+    "<script>\n\timport Button from \"./Button.svelte\";\n</script>\n\n<style>\n  html,\n  body,\n  main {\n    font-family: sans-serif;\n    height: 100%;\n  }\n</style>\n\n<main style=\"height: 100%;width: 100%;\">Table\n\t<Button style=\"height: 100%;width: 100%;\" />\n</main>"
+  ],
+  "names": [],
+  "mappings": "AAOE,IAAI,eAAC,CAAC,AACJ,WAAW,CAAE,UAAU,CACvB,MAAM,CAAE,IAAI,AACd,CAAC"
+}
